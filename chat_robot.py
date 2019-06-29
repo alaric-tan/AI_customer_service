@@ -1,3 +1,8 @@
+'''
+文件描述：基于微信公众号实现AI客服
+作者：txy
+
+'''
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
